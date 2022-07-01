@@ -41,21 +41,21 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6285785694474'] //ur owner number
+global.owner = ['6281388445169'] //ur owner number
 global.ownername = "Jaka"
 global.ytname = "YT:I'M NITSU " //ur yt chanel name
 global.socialm = "IG: itsme_nitsu" //ur github or insta name
 global.location = "Indonesia, Jawa timur, Gresik" //ur location
 
 //bot bombdy
-global.botname = "Jesīcaꪶ͢Botzꫂ⁩" //ur bot name
+global.botname = "CiciBotz" //ur bot name
 global.websitex = "https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/eFNTvNt.mp4' } //gif and video menu
 global.packname = "Sticker by"
-global.author = "Jaka"
+global.author = "Cici"
 global.themeemoji = "🐶"
 global.reactmoji = "😎"
-global.ownertag = ['Jakaa'] //ur owner tag
+global.ownertag = ['Cici'] //ur owner tag
 global.ownernummenu = ['6285785694474'] //ur owner number in menu and all
 global.watermark = "Jesīcaꪶ͢Botzꫂ⁩" //ur watermark
 global.botscript = "Sc sc buat sendiri bgst"
@@ -97,7 +97,7 @@ global.mess = {
     success: 'Done✓',
     admin: 'Lu admin?!',
     botAdmin: 'Bot Nya jadiin admin dulu"-_!',
-    owner: 'gk bisa lah, cuma Jaka tersayang yg bisa',
+    owner: 'gk bisa lah, cuma owner tersayang yg bisa',
     group: 'Harus di grup, di private chat gk bisa',
     private: 'Harus di private chat, di grup gk bisa',
     bot: 'This feature is only for bot',
